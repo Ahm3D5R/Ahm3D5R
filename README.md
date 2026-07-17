@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahm3D5R
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning pentesting
+- 👀 I’m interested in C++
+
 
 
 <!---
